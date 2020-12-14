@@ -5,9 +5,7 @@
 }
 
 /* utility */
-.flex {
-  display: flex;
-}
+
 /* /utility */
 
 
@@ -18,7 +16,7 @@
 
 
 /* main */
-#title {
+.birillo {
   display: flex;
   align-items: center;
   flex-direction: column;

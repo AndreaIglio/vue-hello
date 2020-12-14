@@ -6,6 +6,7 @@ let app = new Vue({
   data: {
     message: `Ciao Ajeje it's ` + new Date().toLocaleString(),
     image: "http://qnimate.com/wp-content/uploads/2014/03/images2.jpg",
+    classeDiv : "birillo",
   },
 });
 
